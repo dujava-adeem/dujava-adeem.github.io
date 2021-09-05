@@ -1,0 +1,28 @@
+body {
+    background: url("https://wallpaperaccess.com/full/4649972.jpg");
+    background-size: 100% 100%;
+}
+
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    height: auto;
+}
+
+.gradient {
+    margin: 20px;
+    padding-left: 10px;
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.67, orange), color-stop(0.33, mediumvioletred));
+    height: auto;
+}
+
+.project {
+    padding: 50px;
+    background: white;
+    color: darkblue;
+}
+
+hr {
+    border-top: 2px solid darkblue;
+}
