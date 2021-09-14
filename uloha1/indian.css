@@ -1,0 +1,14 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: darkblue;
+}
+hr{
+    border: 1px solid darkblue;
+
+}
