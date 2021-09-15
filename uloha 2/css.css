@@ -1,0 +1,20 @@
+body{
+    background:black ;
+}
+.zaklad{
+    width: 900px;
+    height: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.kocka{
+    width: 12.5%;
+    height: 12.5%;
+}
+.pink{
+    background: pink;
+}
+.turquoise{
+    background: turquoise;
+}
