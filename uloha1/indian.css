@@ -12,3 +12,6 @@ hr{
     border: 1px solid darkblue;
 
 }
+.obrazok{
+    display: flex;
+}
