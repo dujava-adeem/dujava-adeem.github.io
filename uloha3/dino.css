@@ -1,0 +1,43 @@
+.kontak {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.osoba {
+    width: 25%;
+    border-radius:4%;
+    padding: 20px;
+    background: #0F0D22;
+    color: rgba(255,54,170,1);
+    margin: 5px;
+}
+
+.fotka {
+    width:30%;
+}
+
+.obrazok {
+    width: 100%;
+}
+
+.udaje {
+    padding-left: 35px;
+}
+
+.kontak2 {
+    display: flex;
+}
+
+body {
+    background: rgb(255,54,170);
+    background: linear-gradient(45deg, rgba(255,54,170,1) 0%, rgba(135,255,238,1) 36%, rgba(255,54,170,1) 100%);
+}
+
+h1 {
+    color: rgba(255,54,170,1);
+}
+
+h4 {
+    color: rgba(135,255,238,1);
+}
