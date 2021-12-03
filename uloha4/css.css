@@ -1,0 +1,60 @@
+.zaklad {
+    background: rgb(43,239,255);
+    background: linear-gradient(90deg, rgba(43,239,255,1) 16%, rgba(83,135,255,1) 42%, rgba(132,82,255,1) 86%);
+}
+
+.tabula {
+    width: 100%;
+    background: white;
+    padding: 0;
+    border-collapse: collapse;
+    margin: 0;
+}
+
+.tabulka {
+    margin: 10% 25%;
+}
+.bodka {
+    background: aqua;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+}
+
+.bodka1 {
+    background: blue;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+}
+
+.bodka2 {
+    background: purple;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+    width: 40px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+
+}
+tr {
+ border: 1px solid lightgray;
+}
+
+.ciara {
+    border: 1px solid lightgray;
+}
+
