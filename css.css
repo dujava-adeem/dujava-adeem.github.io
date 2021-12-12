@@ -1,7 +1,7 @@
 .flex {
     display: flex;
     flex-wrap: nowrap;
-    background: black;
+    background: turquoise;
     color: white;
     justify-content: space-between;
 }
