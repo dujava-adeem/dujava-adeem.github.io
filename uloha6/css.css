@@ -96,3 +96,30 @@ background: rgba(194, 149, 77, 0.58);
     background: rgba(243, 197, 144, 0.92);
     border-radius: 50%;
 }
+
+.flex {
+    display: flex;
+    margin: 2% 33%;
+    font-size: large;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.kruh {
+    width: 4%;
+    height: 4%;
+}
+
+.kruh2 {
+width: 46%;
+}
+
+div:nth-child(2) {
+    font-size: xx-large;
+}
+
+.pismo {
+    text-align: center;
+    font-size: xxx-large;
+
+}
